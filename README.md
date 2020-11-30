@@ -7,7 +7,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # To Do
 
 Add @angular/fire Firebase configuration.
+
 Create a database.
+
+# Double click for more options on an added task.
 
 ## Development server
 
