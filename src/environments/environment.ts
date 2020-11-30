@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase : {
+    apiKey: "AIzaSyCbvCDY_wYD-1EnNjBN9DgYHmqHg9-RpVI",
+    authDomain: "kanban-fire-app.firebaseapp.com",
+    databaseURL: "https://kanban-fire-app.firebaseio.com",
+    projectId: "kanban-fire-app",
+    storageBucket: "kanban-fire-app.appspot.com",
+    messagingSenderId: "274964621173",
+    appId: "1:274964621173:web:e8d02648de3cd057f9d53c",
+    measurementId: "G-5VWQGSEF3C"
+  }
 };
 
 /*
